@@ -18,10 +18,10 @@
 大盾=Large Shield
 薄い=Wispy
 丸=Circle
-太縦長=Long And Wide
-細縦長=Long And Narrow
-薄縦長=Long And Wispy
-大縦長=Wide And Wispy
+太縦長=Long and Wide
+細縦長=Long and Narrow
+薄縦長=Long and Wispy
+大縦長=Wide and Wispy
 そり跡=Pubic Stubble
 小盾=Small Shield
 
@@ -29,19 +29,19 @@
 スレンダー=Slender
 ぽっちゃり=Chubby
 
-腹・下腹部=Belly / lower abdomen
+腹・下腹部=Belly / Lower Abdomen
 背中・うなじ=Between Shoulder Blades
 右尻=Right Buttcheek
 左尻=Left Buttcheek
-右脚=Front Of Right Leg
-右ふくらはぎ=Back Of Right Calf
+右脚=Front of Right Leg
+右ふくらはぎ=Back of Right Calf
 左足=Left Foot
-左ふくらはぎ=Back Of Left Calf
-左脚=Front Of Left Leg
+左ふくらはぎ=Back of Left Calf
+左脚=Front of Left Leg
 右足=Right Foot
 右腕=Right Forearm
-右手甲=Right hand
-左手甲=Left hand back
+右手甲=Right Hand
+左手甲=Left Hand Back
 左腕=Left Forearm
 
 シズク=Tear
@@ -129,7 +129,7 @@
 ツインテール=Twintails
 ウルフマッシュ=Wolf Mushroom
 三つ編みおさげ=Twin Braids
-ボリュームカールツイン=Volumetric Twintails
+ボリュームカールツイン=Volumetric Twin Curls
 シンプルおさげ=Simple Pigtails
 ロングウエーブ=Long and Wavy
 ショートツインテール=Short Twintails
@@ -138,6 +138,7 @@
 ＜ベース＞ミドルツインテ=<Base> Middle Twintails
 ワイルドロング=Wild Long
 ツインリングテール=Twin Rings with Tails
+ボリュームツインテール=Volumetric Twintails
 
 サイドカールバング=Side Curls
 レフトボリュームエムバング=M-Shaped, Parted Left
@@ -354,6 +355,7 @@ Yシャツ(男)=Y-Shirt (Male)
 小悪魔トップス=Little Devil Top
 ガーデニングトップス=Gardening Top
 風神腰巻き=Fujin Dress
+ホリデートップス=Holiday Dress
 
 ショートデニム=Denim Shorts
 ショートパンツ=Shorts
@@ -433,6 +435,7 @@ Yバックワンピース水着=Y-Back One-Piece
 眼帯ビキニトップス=Eye Belt Bikini Top
 ロボスーツ=Robo Suit
 マミーブラ=Mummy Bra
+ショコラブラ=Chocolate Bra
 
 シンプルショーツ=Simple Panties
 ビキニ水着ボトムス=Bikini Bottom
@@ -458,7 +461,8 @@ Fオープンショーツ=Split Open Panties
 レザーTバック=Leather T-Back
 マイクロビキニボトムス=Micro Bikini Bottom
 眼帯ビキニボトムス=Eye Belt Bikini Bottom
-マミーショーツ=Mommy Shorts
+マミーショーツ=Mummy Shorts
+ショコラショーツ=Chocolate Panties
 
 ミドルグローブ=Middle Gloves
 ショートグローブ=Short Gloves
@@ -473,6 +477,7 @@ Fオープンショーツ=Split Open Panties
 小悪魔グローブ=Little Devil Gloves
 マミーグローブ=Mummy Gloves
 風神腕巻き=Fujin Gloves
+ホリデーグローブ=Holiday Gloves
 
 パンストソックス=Pantyhose
 ローライズパンストA=Low-Rise Pantyhose a
@@ -530,22 +535,23 @@ Fオープンショーツ=Split Open Panties
 小悪魔シューズ=Little Devil Shoes
 ガーデニングシューズ=Gardening Shoes
 風神一本下駄=Fujin Geta
+ホリデーパンプス=Holiday Pumps
 
 ヘアクリップ=Hair Clip
 ヘアピン=Hairpin
 レース付きリボン=Ribbon with Lace
 リボンフラワー=Ribbon Flower
 リボンバレッタ=Ribbon Barrette
-髪留めリボン=Ribbon Hair Clit
+髪留めリボン=Ribbon Hair Clip
 巫女髪飾り=Shrine Maiden Ornament
 巫女花飾り=Shrine Maiden Flower
 ヘアクリップ２=Hair Clip 2
 ヘアクリップ３=Hair Clip 3
-ヘアクリップ（パール）=Hair Clip (pearl)
-ヘアクリップ（スター）=Hair Clip (star)
+ヘアクリップ（パール）=Hair Clip (Pearl)
+ヘアクリップ（スター）=Hair Clip (Star)
 バッテン髪留め=Cross Hair Pin
 手裏剣=Shuriken
-鈴髪飾り=Bell hair decoration
+鈴髪飾り=Bell Hair Decoration
 花のヘアピン=Flower Hairpin
 シニヨンカバー(右)=Bun Cover (Right)
 シニヨンカバー(左)=Bun Cover (Left)
@@ -553,6 +559,8 @@ Fオープンショーツ=Split Open Panties
 ボールヘアゴム（左）=Ball Hair Tie (Left)
 ボールヘアゴム（右）=Ball Hair Tie (Right)
 小悪魔リボン=Little Devil Ribbon
+ホリデークリップ(右)=Holiday Clip (Right)
+ホリデークリップ(左)=Holiday Clip (Left)
 
 ロングリボン=Long Ribbon
 キャスケット=Casquette
@@ -621,6 +629,8 @@ Fオープンショーツ=Split Open Panties
 ガーデニングボンネット=Gardening Bonnet
 風冠=Fujin Crown
 風角=Fujin Antler
+コック帽=Chef Hat
+ホイップクリーム=Whipped Cream
 
 スクエア=Square Glasses
 ボストン=Boston Glasses
@@ -642,6 +652,7 @@ Fオープンショーツ=Split Open Panties
 スティックキャンディ=Lollipop
 マミーアイパッチ(左)=Mummy Eye Patch (Left)
 マミーアイパッチ(右)=Mummy Eye Patch (Right)
+チョコスティック=Chocolate Stick
 
 ハートペンダント=Heart Pendant
 リボンネクタイ=Ribbon Tie
@@ -664,7 +675,7 @@ Sチェーンネックレス=S-Chain Necklace
 荒野のスカーフ=Bandana
 スターチョーカー=Star Choker
 セーラーリボン=Sailor Ribbon
-コンシェルジュネクタイ=Conciergene Tie
+コンシェルジュネクタイ=Concierge Tie
 付け襟=Fake Collar
 蝶ネクタイ=Bow Tie
 ミニケープ=Mini Cape
@@ -687,6 +698,7 @@ Sチェーンネックレス=S-Chain Necklace
 星型バッジ=Star-shaped Badge
 風袋=Wind Bag
 風纏=Fujin Aura
+ホリデーテープ=Holiday Tape
 
 ウェストでかリボン=Waist Ribbon
 猫しっぽ=Cat Tail
@@ -708,6 +720,8 @@ Sチェーンネックレス=S-Chain Necklace
 ミサンガC=Luck Bracelet C
 ガーターポーチ(左)=Garter Pouch (Left)
 ガーターポーチ(右)=Garter Pouch (Right)
+ホリデーアンクレット(左)=Holiday Anklet (Left)
+ホリデーアンクレット(右)=Holiday Anklet (Right)
 
 シュシュ=Scrunchie
 リストバンド(左)=Wristband (Left)
@@ -723,6 +737,7 @@ Sチェーンネックレス=S-Chain Necklace
 バニーカフス(右)=Bunny Cuffs (Right)
 サイバーショルダー(右)=Cyber Shoulder (Right)
 サイバーショルダー(左)=Cyber Shoulder (Left)
+リボンループ=Ribbon Loop
 
 シンプル指輪=Simple Ring
 宝石指輪=Jewel Ring
@@ -747,6 +762,8 @@ Sチェーンネックレス=S-Chain Necklace
 ジョウロ=Watering Can
 霧吹き=Spray Bottle
 風大扇=Fujin Fan
+泡立て器=Whisk
+ボウル=Bowl
 
 バイブ=Vibrating Dildo
 アナルバイブ=Anal Vibrator
